@@ -35,7 +35,16 @@ const Contact = () => {
                 </div>
 
                 <div className="heading-md">
-                  {personalInfo.email}
+                  <a
+                    href="mailto:samshashank1995@gmail.com"
+                    className="
+                      text-[var(--primary)]
+                      font-semibold
+                      hover:underline
+                    "
+                  >
+                    samshashank1995@gmail.com
+                  </a>
                 </div>
               </div>
 

@@ -26,7 +26,7 @@ const Experience = () => {
           {experiences.map((exp, index) => (
             <div
               key={index}
-              className="project-enterprise-card"
+              className="project-enterprise-card mb-4"
             >
 
               <div className="mb-8">

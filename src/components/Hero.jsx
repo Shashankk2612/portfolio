@@ -154,7 +154,7 @@ const Hero = () => {
                   </div>
 
                   <div className="hero-floating-subtitle">
-                    Enterprise Projects & Freelance
+                    Enterprise Projects & Consulting
                   </div>
 
                 </div>

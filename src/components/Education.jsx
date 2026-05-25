@@ -36,7 +36,7 @@ const Education = () => {
                 key={index}
                 className="
                   flex
-                  items-start
+                  items-center
                   gap-3
                 "
               >

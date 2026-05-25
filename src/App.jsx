@@ -8,6 +8,7 @@ import Education from "./components/Education";
 import PersonalInfo from "./components/PersonalInfo";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import Resume from "./components/Resume";
 
 function App() {
   return (
@@ -29,6 +30,8 @@ function App() {
         <Education />
 
         <PersonalInfo />
+
+        <Resume />
 
         <Contact />
 

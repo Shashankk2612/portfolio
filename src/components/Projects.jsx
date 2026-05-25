@@ -38,7 +38,7 @@ const Projects = () => {
             <div
               key={index}
               className="
-                project-enterprise-card
+                project-enterprise-card mb-4
               "
             >
 
@@ -141,7 +141,7 @@ const Projects = () => {
                       key={item}
                       className="
                         flex
-                        items-start
+                        items-center
                         gap-3
                       "
                     >
